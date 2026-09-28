@@ -1,0 +1,4 @@
+I used OpenAI’s ChatGPT as an interactive tutor and code-review assistant. It helped me define the recipe-rating persona, build the tag features and ridge regression model, calculate LinUCB bounds and recommendations, and validate the TSV files. I reviewed and ran the code and interpreted the results.
+
+Libraries used: pandas for data tables, NumPy for matrix calculations, and scikit-learn for ridge regression.
+
